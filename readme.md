@@ -38,6 +38,7 @@ Les caractéristiques d'un produit (t-shirt) :
 - Description
 - Moyen de paiement
 - Online (booléen)
+- Image
 
 # Client
 
@@ -72,7 +73,7 @@ Utiliser les **fixtures** pour :
 ## Les pages de votre site web
 
 - **Homepage** : avoir du contenue à base de **lorem** pour présenter votre boutique
-- **Catalogue** : page qui liste tous les produits par **ordre de prix croissants** et **en ligne** avec une **pagination** , chaque produit devra être clickable afin d'afficher les informations du produit **nom,prix,couleur,taille,description,moyen de paiement
+- **Catalogue** : page qui liste **6 produits** par **ordre de prix croissants** et **en ligne** avec une **pagination** , chaque produit devra être clickable afin d'afficher sur une page les informations du produit **image,nom,prix,couleur,taille,description,moyen de paiement**
 - **Compte** : page qui donne les informations sur le client connecté
 - **CGV** : Conditions générales de vente , mettez du vrai texte
 - **RGPD** : Règlement général sur la protection des données , mettez du vrai texte
